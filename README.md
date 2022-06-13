@@ -21,7 +21,5 @@ Deployment with streamlit code using Pickle -- # Please refer to project.py file
 
 Output of the project -
 
-## Screenshots
-
 ![Output_image](https://user-images.githubusercontent.com/72555080/173317136-9d8c90bd-1979-405f-88dc-e2ce01d75082.png)
 
